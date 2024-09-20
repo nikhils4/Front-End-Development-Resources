@@ -21,6 +21,7 @@
 - [Aceternity UI](https://ui.aceternity.com/)
 - [Magic UI](https://magicui.design/)
 - [Tremor](https://www.tremor.so/)
+- [UI Beats](https://uibeats.com/)
 
 ## Vue
 
